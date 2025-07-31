@@ -1,0 +1,15 @@
+// Status: 201, time: 22,899ms, size: 155 B
+### Creates a new patient entity
+POST http://localhost:4000/patients HTTP/1.1
+content-type: application/json
+date: Wed, 30 Jul 2025 02:47:02 GMT
+transfer-encoding: chunked
+
+{
+  "id": "ac40e5cb-ca9b-41ae-838a-8f8648094e10",
+  "name": "Smruti",
+  "email": "srnayak@gmail.com",
+  "address": "Bhubaneswar, Odisha, India",
+  "dateOfBirth": "2000-01-17"
+}
+>> D:\microservice projects\patient-management\.idea\httpClient\07-30\Creates a new patient entity\2025-07-30T081702.json

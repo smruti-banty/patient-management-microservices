@@ -1,0 +1,7 @@
+// Status: 204, time: 20ms, size: 0 B
+### DELETE Patient
+DELETE http://localhost:4000/patients/389608a6-985c-47c0-a406-a1be67aab467 HTTP/1.1
+date: Thu, 31 Jul 2025 06:40:00 GMT
+
+
+>> D:\microservice projects\patient-management\.idea\httpClient\07-31\DELETE Patient\2025-07-31T121001.txt

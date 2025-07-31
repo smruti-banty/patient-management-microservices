@@ -1,0 +1,360 @@
+// Status: 200, time: 22ms, size: 9.24 kB
+### GET All Patients
+GET http://localhost:4000/patients HTTP/1.1
+content-type: application/json
+date: Thu, 24 Jul 2025 02:26:55 GMT
+transfer-encoding: chunked
+
+[
+  {
+    "id": "34174481-fe11-44f8-a4d9-d29fe1de89ed",
+    "name": "Brian Bowen",
+    "email": "vhorne@campbell.com",
+    "address": "315 Peggy Plain, Alexistown, ME 94316",
+    "dateOfBirth": "1986-01-04"
+  },
+  {
+    "id": "cd9b60a0-2cf0-41f8-91ce-56e1940762c6",
+    "name": "Barbara Rios",
+    "email": "jessica58@hotmail.com",
+    "address": "5354 Holly Station, West Terrifurt, AL 22363",
+    "dateOfBirth": "1994-05-01"
+  },
+  {
+    "id": "1a1b30fa-9439-4140-93c2-8cf26dcf0ebb",
+    "name": "Linda Alvarez",
+    "email": "whiteleah@yahoo.com",
+    "address": "98109 King Islands Apt. 483, Palmerhaven, TX 15690",
+    "dateOfBirth": "1998-02-28"
+  },
+  {
+    "id": "4176a3cd-61c3-49ab-9c43-1223842f0d5d",
+    "name": "Patricia Taylor",
+    "email": "sanderson@hotmail.com",
+    "address": "187 Kennedy Extensions Suite 020, Port James, WA 84683",
+    "dateOfBirth": "1967-04-30"
+  },
+  {
+    "id": "4fa5d8d5-b190-4de6-a5de-b0f91550a10c",
+    "name": "Brian Leon",
+    "email": "christinemaddox@leon-mahoney.net",
+    "address": "0218 Amber Vista, Munoztown, PA 50023",
+    "dateOfBirth": "1973-04-17"
+  },
+  {
+    "id": "7ea1030b-67c2-488f-939e-808cd27d0899",
+    "name": "Amber Price",
+    "email": "pjacobson@hughes.com",
+    "address": "1544 Murphy Mills Apt. 137, East Robert, WY 79510",
+    "dateOfBirth": "1997-08-17"
+  },
+  {
+    "id": "83cfcdb5-d77a-4e60-b6c3-936688190493",
+    "name": "Scott Wilson",
+    "email": "joneal@jones.com",
+    "address": "086 Scott Locks, Chavezfort, PA 61368",
+    "dateOfBirth": "1995-03-14"
+  },
+  {
+    "id": "4dc898ce-d32b-4fc0-a507-896538848832",
+    "name": "Jose Leonard",
+    "email": "christianvargas@english-sullivan.com",
+    "address": "2963 Melissa Ridge Suite 369, Lake Katherinemouth, CO 07208",
+    "dateOfBirth": "1990-01-31"
+  },
+  {
+    "id": "ea02a47e-cf43-4a12-a6bd-7164a30fcc5f",
+    "name": "Henry Conley",
+    "email": "burkenicole@williams.org",
+    "address": "2110 Natalie Tunnel, Lake Nancyport, MA 51524",
+    "dateOfBirth": "1969-12-02"
+  },
+  {
+    "id": "c77c6761-75d4-4311-99de-a8bb16dfb794",
+    "name": "Charles Rodriguez",
+    "email": "katherine81@yahoo.com",
+    "address": "Unit 3518 Box 0429, DPO AE 10036",
+    "dateOfBirth": "1980-06-30"
+  },
+  {
+    "id": "1700cd56-9125-4817-8f36-724192154e68",
+    "name": "Michael Gibson",
+    "email": "amandamiller@thomas.net",
+    "address": "15027 Frye Port, Reedland, OH 35898",
+    "dateOfBirth": "1975-08-31"
+  },
+  {
+    "id": "237e5d1e-11f0-4c8b-98db-51eb9193fc91",
+    "name": "Rebekah Fisher",
+    "email": "april38@lawson.com",
+    "address": "3095 Brian Knoll, Port Debbieton, KS 88429",
+    "dateOfBirth": "1987-07-16"
+  },
+  {
+    "id": "6fc1f571-c905-42f0-bf97-d82da24ce4ef",
+    "name": "Mr. Matthew Diaz DDS",
+    "email": "amy37@davis.info",
+    "address": "275 Lynn Expressway, Maynardshire, AL 08141",
+    "dateOfBirth": "1972-03-27"
+  },
+  {
+    "id": "19f27385-a0b9-4932-9190-2965e157dad5",
+    "name": "Carl Lewis",
+    "email": "taralarsen@burnett.com",
+    "address": "2117 Karen Green, North Jennifer, AK 47586",
+    "dateOfBirth": "1996-03-13"
+  },
+  {
+    "id": "5cca408e-d89b-4818-91eb-7982c4cade4d",
+    "name": "Jeanette Ford",
+    "email": "sthompson@meyer.com",
+    "address": "985 Amy Way, Sarahberg, SC 49911",
+    "dateOfBirth": "1985-03-20"
+  },
+  {
+    "id": "0f8ff2c2-c3c0-48b7-962c-3ec72dad068f",
+    "name": "Larry Singleton",
+    "email": "hfernandez@hotmail.com",
+    "address": "03294 John Via, Desireechester, NH 05458",
+    "dateOfBirth": "1975-11-02"
+  },
+  {
+    "id": "dde92516-77f4-4f14-8146-f1aca91fd164",
+    "name": "Nicole Mcpherson",
+    "email": "robinmyers@mack-williams.com",
+    "address": "Unit 1011 Box 7470, DPO AP 33578",
+    "dateOfBirth": "1984-06-22"
+  },
+  {
+    "id": "32aa718a-f57f-4512-a526-348e661e9d9e",
+    "name": "Stephanie Vaughn",
+    "email": "kevin08@smith.biz",
+    "address": "3417 Xavier Plain, Kristopherchester, NJ 64374",
+    "dateOfBirth": "1970-06-15"
+  },
+  {
+    "id": "a1a08f81-1f57-4a2a-b6f0-9e784c6fbbc2",
+    "name": "Cheryl Sanchez",
+    "email": "annette28@gmail.com",
+    "address": "79643 Ross Vista Apt. 606, East Jerry, VA 43991",
+    "dateOfBirth": "1980-12-10"
+  },
+  {
+    "id": "771fae54-e6a9-4476-9b7b-e7be5bda1611",
+    "name": "Rachel West",
+    "email": "hrios@garcia.com",
+    "address": "03840 Thomas Gardens Suite 301, Benitezport, AR 11061",
+    "dateOfBirth": "1967-11-28"
+  },
+  {
+    "id": "0565f924-9cfd-49b8-a570-c139c5a8eaf1",
+    "name": "Kelly Patterson",
+    "email": "michellelamb@hotmail.com",
+    "address": "USNV Erickson, FPO AE 37946",
+    "dateOfBirth": "1987-02-19"
+  },
+  {
+    "id": "f789769a-c19a-460a-9037-7ca679de46a5",
+    "name": "Christina Caldwell",
+    "email": "martinmary@gmail.com",
+    "address": "174 Castillo Mountain, Stevensonmouth, IN 13852",
+    "dateOfBirth": "1991-09-20"
+  },
+  {
+    "id": "769d71c1-b8e0-461b-a1ae-4ae1e52a0536",
+    "name": "Shawn Joseph",
+    "email": "kenneth10@gmail.com",
+    "address": "USCGC Williams, FPO AE 36555",
+    "dateOfBirth": "1970-09-06"
+  },
+  {
+    "id": "101c8145-c8b9-4d85-b3af-d39af9497b51",
+    "name": "Linda Ware",
+    "email": "rpeters@anderson-wood.com",
+    "address": "121 Alvarez Landing Suite 067, Sydneyfurt, WV 18646",
+    "dateOfBirth": "1993-08-22"
+  },
+  {
+    "id": "172c7db6-6eb4-4201-9c3b-5663be354ff8",
+    "name": "Megan Wolfe",
+    "email": "nruiz@baker.com",
+    "address": "20000 Johnson Way, Lake Sheila, MA 27284",
+    "dateOfBirth": "1988-03-15"
+  },
+  {
+    "id": "f0f9e0c6-caa2-4322-be7a-338ace1e25b1",
+    "name": "Paul Jones",
+    "email": "rodrigueznicholas@rich-woods.com",
+    "address": "PSC 7371, Box 7046, APO AE 21722",
+    "dateOfBirth": "1984-12-18"
+  },
+  {
+    "id": "d7d0a0d9-5e0e-4d6d-bdfa-0d25c63c6993",
+    "name": "Katelyn Yates",
+    "email": "vrose@yahoo.com",
+    "address": "748 Velasquez Road Suite 250, Joseberg, AL 39446",
+    "dateOfBirth": "1999-10-20"
+  },
+  {
+    "id": "b0f0b263-d56f-46d1-a78b-7ca48d66d0ea",
+    "name": "Terri Hall",
+    "email": "bonnie19@yahoo.com",
+    "address": "23690 Kathy Forest Apt. 643, South Anthony, TX 72886",
+    "dateOfBirth": "1984-04-30"
+  },
+  {
+    "id": "a36dfdf0-dc2c-439d-b9b2-3b4c8744d78c",
+    "name": "Luis Wells",
+    "email": "rreyes@yahoo.com",
+    "address": "637 Darryl Light, Caroltown, TX 65972",
+    "dateOfBirth": "1985-06-16"
+  },
+  {
+    "id": "06f158fe-c622-41d7-8f0a-756306bb4e00",
+    "name": "Clinton Ward",
+    "email": "brian50@hotmail.com",
+    "address": "36471 David Brook, West Markburgh, AL 50516",
+    "dateOfBirth": "1991-05-25"
+  },
+  {
+    "id": "d4c4c6da-6024-45c2-a04e-c3f748a1db2d",
+    "name": "Christopher Anderson",
+    "email": "jaredhall@hotmail.com",
+    "address": "98612 Tyler Burgs, Brownstad, MA 22040",
+    "dateOfBirth": "1990-10-25"
+  },
+  {
+    "id": "f7668c2f-b619-4622-af60-edbca1af3645",
+    "name": "Patricia Davis",
+    "email": "mharvey@gmail.com",
+    "address": "25919 Smith Harbors, Brandonside, OK 67689",
+    "dateOfBirth": "1995-05-13"
+  },
+  {
+    "id": "12b44ff9-3795-4d62-8e19-b62553376c76",
+    "name": "Robert Moore",
+    "email": "hjones@ramirez-lewis.com",
+    "address": "80464 Henderson Groves Apt. 888, Jenningsburgh, DC 80144",
+    "dateOfBirth": "1982-12-03"
+  },
+  {
+    "id": "cdb16599-13d9-4bc2-8240-0bc62a950f17",
+    "name": "Charles Martin",
+    "email": "uwaller@hotmail.com",
+    "address": "60462 Gutierrez Walks, Gardnerborough, RI 57626",
+    "dateOfBirth": "1975-05-26"
+  },
+  {
+    "id": "faa7c0ea-c0a1-45ac-a0dd-695887603821",
+    "name": "Megan Oconnor",
+    "email": "john28@gmail.com",
+    "address": "9611 Johnson Fork, Michaelton, MT 79329",
+    "dateOfBirth": "1994-10-22"
+  },
+  {
+    "id": "a226cfc4-1fab-4adb-9802-94cf31dbe98f",
+    "name": "Justin Smith",
+    "email": "tracey81@yahoo.com",
+    "address": "USNS Peters, FPO AP 21541",
+    "dateOfBirth": "1992-07-10"
+  },
+  {
+    "id": "8873039d-712a-4f98-adfc-7aefbcd6e5d4",
+    "name": "Thomas Thomas",
+    "email": "mgarrett@gray-christensen.biz",
+    "address": "475 William Summit, East Kristen, LA 16177",
+    "dateOfBirth": "1986-01-18"
+  },
+  {
+    "id": "310734ec-78fc-425a-aa5b-894bb836f926",
+    "name": "Michelle Hudson",
+    "email": "fhill@baker.biz",
+    "address": "050 Marsh Plains Suite 944, South Josephchester, NC 85646",
+    "dateOfBirth": "1972-05-16"
+  },
+  {
+    "id": "6ec1c18c-3318-4e99-ad68-6e9efc92cf9a",
+    "name": "Felicia Bauer",
+    "email": "obrienscott@nguyen.com",
+    "address": "72762 Keller Rapid Apt. 170, West Samanthaland, NC 50922",
+    "dateOfBirth": "1971-05-20"
+  },
+  {
+    "id": "e0ae4a2e-977a-4f47-a3a9-0fc357fccb0b",
+    "name": "Nicholas Guzman",
+    "email": "scott71@escobar.com",
+    "address": "65112 Garza Circles Suite 357, Holmesfurt, ME 21296",
+    "dateOfBirth": "1972-03-26"
+  },
+  {
+    "id": "02c01433-53f1-4cbe-bb7c-0f79412decf9",
+    "name": "Julie Hill",
+    "email": "dylan75@martinez-campbell.biz",
+    "address": "902 Kim Junction Apt. 890, South Rodney, MS 11117",
+    "dateOfBirth": "1980-09-22"
+  },
+  {
+    "id": "7b069675-dd72-46b9-939f-e113dceac904",
+    "name": "Faith Gonzales",
+    "email": "keithfisher@carter.com",
+    "address": "73889 Williams Lodge Suite 198, North Carrieberg, AL 50789",
+    "dateOfBirth": "1985-03-16"
+  },
+  {
+    "id": "915c195f-51d2-44ff-9eef-4d6dd96ffc75",
+    "name": "Becky Wheeler",
+    "email": "campbellkatherine@brooks-pugh.com",
+    "address": "7023 Patricia Wall, Jennifershire, OH 88151",
+    "dateOfBirth": "1989-11-23"
+  },
+  {
+    "id": "ce5bf6a0-4c97-4513-a4dc-38f9b7ab1559",
+    "name": "Cesar Hernandez",
+    "email": "zfox@avila.org",
+    "address": "54750 Simmons Knoll Apt. 461, Jenniferfort, CO 28057",
+    "dateOfBirth": "1988-05-12"
+  },
+  {
+    "id": "3f33e411-960f-4999-8dcc-5e94dd4c7f28",
+    "name": "Brandy Reynolds",
+    "email": "terri95@hotmail.com",
+    "address": "PSC 7596, Box 6312, APO AA 22236",
+    "dateOfBirth": "1977-04-24"
+  },
+  {
+    "id": "c6b2a091-d281-48aa-a29a-ee1709d565c8",
+    "name": "Julie Hopkins",
+    "email": "zclark@gmail.com",
+    "address": "2899 Bryan Station, Ericburgh, ID 81884",
+    "dateOfBirth": "1974-07-01"
+  },
+  {
+    "id": "03d85f38-8c38-46bb-8ef9-871da6cce7d5",
+    "name": "Alyssa Johnson",
+    "email": "zgonzalez@payne-mosley.com",
+    "address": "0257 Graham Viaduct, East Amanda, MD 68102",
+    "dateOfBirth": "1985-10-09"
+  },
+  {
+    "id": "9e60a109-5d40-4197-9532-dad277b323c4",
+    "name": "Tammy Foster",
+    "email": "taylor36@diaz-ferrell.info",
+    "address": "45610 Adam Ports Apt. 476, West Shannon, NV 18404",
+    "dateOfBirth": "1993-06-10"
+  },
+  {
+    "id": "6a2ac18c-fb86-4570-8256-c83d4cd3f787",
+    "name": "Brenda Wall",
+    "email": "amanda63@yahoo.com",
+    "address": "0961 Hodge Square, Kaylachester, AK 29058",
+    "dateOfBirth": "1972-05-02"
+  },
+  {
+    "id": "2226df7f-e371-46c7-a3fd-e43ca4b3cccf",
+    "name": "Eric Shelton",
+    "email": "rodrigueznicholas@hotmail.com",
+    "address": "310 Flores Circles Suite 016, Murphyshire, FL 98184",
+    "dateOfBirth": "1977-09-01"
+  }
+]
+>> D:\microservice projects\patient-management\.idea\httpClient\07-24\GET All Patients\2025-07-24T075655.json

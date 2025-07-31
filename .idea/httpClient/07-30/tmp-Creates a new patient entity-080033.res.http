@@ -1,0 +1,17 @@
+// Status: 400, time: 157ms, size: 154 B
+### Creates a new patient entity
+POST http://localhost:4000/patients HTTP/1.1
+connection: close
+content-type: application/problem+json
+date: Wed, 30 Jul 2025 02:30:33 GMT
+transfer-encoding: chunked
+
+{
+  "type": "about:blank",
+  "title": "Validation failed",
+  "status": 400,
+  "detail": "One or more fields are invalid",
+  "instance": "/patients",
+  "name": "Name is required"
+}
+>> D:\microservice projects\patient-management\.idea\httpClient\07-30\Creates a new patient entity\2025-07-30T080033.json

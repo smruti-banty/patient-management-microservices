@@ -1,0 +1,7 @@
+{
+  "type": "about:blank",
+  "title": "Validation failed",
+  "status": 400,
+  "detail": "Email address already exists",
+  "instance": "/patients"
+}

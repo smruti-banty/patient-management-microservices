@@ -1,0 +1,8 @@
+{
+  "type": "about:blank",
+  "title": "Validation failed",
+  "status": 400,
+  "detail": "One or more fields are invalid",
+  "instance": "/patients",
+  "email": "Email should be valid"
+}
