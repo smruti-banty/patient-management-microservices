@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="patient-service" />
       </profile>
-      <profile name="Annotation profile for billingservice" enabled="true">
+      <profile name="Annotation profile for billing service" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
